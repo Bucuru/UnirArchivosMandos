@@ -1,0 +1,8 @@
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\bin\Release\UnirArchivosMandos.exe
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\bin\Release\UnirArchivosMandos.pdb
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\ResolveAssemblyReference.cache
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\UnirArchivosMandos.csproj.GenerateResource.Cache
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\UnirArchivosMandos.exe
+C:\Aplicaciones\UnirArchivosMandos\UnirArchivosMandos\obj\Release\UnirArchivosMandos.pdb

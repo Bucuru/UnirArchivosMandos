@@ -1,0 +1,5 @@
+ABC -- 05/03/2019
+Versión 1.0
+Aplicación para unir archivos de mandos distintos en uno solo.
+Es muy tonta, no verifica que haya mandos repetidos.
+El archivo de mandos tiene que mantener los mismos comentarios que los que tiene tras la herramienta generación.
